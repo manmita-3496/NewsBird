@@ -1,0 +1,267 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Natasha Turak",
+    "title": "Ukraine war live updates: Russian missile volley hits Ukraine's port cities in 'revenge strike'; Crimea bridge partially reopens after attack - CNBC",
+    "description": "Port cities Odesa and Mykolaiv came under attack from drones and missiles, one day after Russia pulled out of the Black Sea grain deal.",
+    "url": "https://www.cnbc.com/2023/07/18/russia-ukraine-live-updates.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107256406-1686744831131-gettyimages-1258683058-ukrinform-russianm230614_np2bH.jpeg?v=1689668965&w=1920&h=1080",
+    "publishedAt": "2023-07-18T10:25:00Z",
+    "content": "Crimea's Kerch Bridge road partially reopened, one day after early morning explosions on it killed two people and injured one, splitting a large part of the road and halting its traffic.\r\n\"Motor tran… [+702 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Kelsey Ables, Victoria Bisset",
+    "title": "Ukraine live briefing: End of grain deal sparks concern over food prices; Putin vows response to Crimean Bridge attack - The Washington Post",
+    "description": "Russia decided to “hold humanity hostage,” the U.S. ambassador to the U.N. said about the end of the Black Sea grain deal, which allowed Ukrainian food exports.",
+    "url": "https://www.washingtonpost.com/world/2023/07/18/russia-ukraine-war-news/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KHUG2JNXH4LARRBBICWSGA563U.jpg&w=1440",
+    "publishedAt": "2023-07-18T10:25:00Z",
+    "content": "Russia said it would resume its blockade on Ukrainian grain, terminating the U.N.-backed Black Sea Grain Initiative that had helped sustain critical food supplies and temper rising food prices around… [+5435 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Elizabeth Wolfe, John Miller",
+    "title": "Investigators feared Gilgo Beach serial killings suspect would try to flee the country, police official says - CNN",
+    "description": "As the tangled investigation into the Gilgo Beach serial killings suspect continues, a police official described to CNN the tense moments leading up to his arrest, including fears that the man might flee the country if he found out that prosecutors were prepa…",
+    "url": "https://www.cnn.com/2023/07/18/us/gilgo-beach-serial-killings-suspect-investigation-tuesday/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230718082722-02-gilgo-beach-investigation-071523.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-07-18T10:12:00Z",
+    "content": "As the tangled investigation into the Gilgo Beach serial killings suspect continues, a police official described to CNN the tense moments leading up to his arrest, including fears that the man might … [+7299 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Post"
+    },
+    "author": "Nika Shakhnazarova",
+    "title": "Tom Cruise backs striking actors union in surprise appearance during negotiating session, blasts use of AI - New York Post ",
+    "description": "The 61-year-old rallied against the takeover of AI as thousands of Hollywood actors and entertainers continue to strike with the Writers Guild of America (WGA).",
+    "url": "https://nypost.com/2023/07/18/tom-cruise-backs-striking-actors-in-surprise-appearance-during-zoom-call/",
+    "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/07/newspress-collage-3lqwuef1q-1689673350427.jpg?quality=75&strip=all&1689659080&w=1024",
+    "publishedAt": "2023-07-18T09:39:00Z",
+    "content": "The Hollywood actors’ strike has just got the support of one of its most famous A-listers: Tom Cruise. \r\nThe “Top Gun: Maverick” star backed SAG-AFTRA during a surprise appearance at a negotiating se… [+2312 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Laura Paddison",
+    "title": "‘This is just the beginning’: Extreme heat around the world as fires rage in southern Europe - CNN",
+    "description": "Blisteringly high temperatures are expected to continue across parts of southern Europe this week, as the continent braces for its second extreme heat wave, putting people’s health at risk and setting the stage for wildfires.",
+    "url": "https://www.cnn.com/2023/07/17/europe/europe-weather-second-heatwave-charon-climate-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230717140842-01-greece-heatwave-071423.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-07-18T09:34:00Z",
+    "content": "Blisteringly high temperatures are expected to continue across parts of southern Europe this week, as the continent braces for its second extreme heat wave, putting peoples health at risk and setting… [+7346 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "Donanemab: The Breakthrough Drug Ushering a New Era in Alzheimer's Treatment - SciTechDaily",
+    "description": "The FDA is anticipated to approve a third Alzheimer's drug, donanemab, signaling progress in slowing the disease. The drug showed a 35% slowdown in cognitive decline in patients with mild disease, but the benefit was less apparent in advanced cases. Progress …",
+    "url": "https://scitechdaily.com/donanemab-the-breakthrough-drug-ushering-a-new-era-in-alzheimers-treatment/",
+    "urlToImage": "https://scitechdaily.com/images/Brain-Disease-Alzheimers-Treatment.jpg",
+    "publishedAt": "2023-07-18T09:22:38Z",
+    "content": "ByUniversity of California, San Francisco (UCSF)July 18, 2023\r\nA new Alzheimers drug, donanemab, expected to be approved by the FDA, shows promising results in slowing cognitive decline in patients w… [+6296 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gamingbible.com"
+    },
+    "author": "Richard Lee Breslin",
+    "title": "PlayStation gamers heartbroken Sony traded Bethesda, Crash, and more for 10 years of Call Of Duty - GAMINGbible",
+    "description": "PlayStation fans are left heartbroken that Sony traded Bethesda, Crash, and more for 10 years of Call Of Duty.",
+    "url": "https://www.gamingbible.com/news/platform/playstation/playstation-sony-traded-bethesda-crash-call-of-duty-141333-20230718",
+    "urlToImage": "https://images.ladbible.com/resize?type=jpeg&quality=70&width=1200&fit=contain&gravity=auto&url=https://eu-images.contentstack.com/v3/assets/bltbc1876152fcd9f07/blt3883a389f8b82d7c/64b653b443b29669614f603d/call_of_duty_crash_activision.png",
+    "publishedAt": "2023-07-18T09:04:01Z",
+    "content": "The Microsoft and Activision Blizzard takeover saga may nearly be over, but some fans are left feeling aggrieved.\r\nSince 2003, the Call of Duty series has evolved into one of the most commercially su… [+3117 chars]"
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Wes Davis",
+    "title": "The Biden Administration announces its new smart home cybersecurity label - The Verge",
+    "description": "Using a new labeling program similar in concept to Energy Star, the FCC wants to drive smart home makers to offer better, ongoing security, and give consumers an easy way to spot safer devices, starting in 2024",
+    "url": "https://www.theverge.com/2023/7/18/23798153/fcc-cyber-trust-mark-biden-security",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/QLcCx1PubyB_75Qk0_-yXuZiOwI=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23249791/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg",
+    "publishedAt": "2023-07-18T09:00:00Z",
+    "content": "The Biden Administration is tackling smart devices with a new cybersecurity label\r\nThe Biden Administration is tackling smart devices with a new cybersecurity label\r\n / The US Cyber Trust Mark would … [+5255 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Ariana Baio",
+    "title": "Portland murders - live: Person of interest identified in 'serial killings' of four women - The Independent",
+    "description": "Four women have been found near or on the sides of roads since February",
+    "url": "https://www.independent.co.uk/news/world/americas/crime/portland-murders-2023-serial-killer-b2377064.html",
+    "urlToImage": "https://static.independent.co.uk/2023/07/17/20/Screenshot%202023-07-17%20at%203.10.17%20PM.png?quality=75&width=1200&auto=webp",
+    "publishedAt": "2023-07-18T05:00:54Z",
+    "content": "Police once sought to downplay rumors that Oregon deaths were connected \r\nBefore Mondays surprising announcement, police previously sought to downplay online rumours that the suspicious deaths of mul… [+1170 chars]"
+    },
+    {
+    "source": {
+    "id": "al-jazeera-english",
+    "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "Australian and his dog rescued after 3 months adrift in Pacific - Al Jazeera English",
+    "description": "Sydney resident Timothy Lyndsay Shaddock, 54, and dog Bella rescued 1,900km from land by the crew of Mexican tuna boat.",
+    "url": "https://www.aljazeera.com/news/2023/7/18/australian-and-his-dog-rescued-after-three-months-adrift-in-pacific",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/07/AP23199106867412-1689652735.jpg?resize=1200%2C675",
+    "publishedAt": "2023-07-18T04:31:08Z",
+    "content": "An Australian sailor who had been adrift at sea with his dog for three months has been rescued by a Mexican tuna boat in international waters, the fishing vessels owner said.\r\nTimothy Lyndsay Shaddoc… [+2651 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Inga Parkel",
+    "title": "Miranda Lambert divides fans after halting concert to reprimand girls taking selfie - The Independent",
+    "description": "Some concertgoers left in protest of the country singer’s ‘uncalled for’ behaviour",
+    "url": "https://www.independent.co.uk/arts-entertainment/music/news/miranda-lambert-selfie-video-apology-controversy-b2377051.html",
+    "urlToImage": "https://static.independent.co.uk/2023/07/17/19/Copy%20of%20IndependentPhoto_TEMPLATE%20%281%29.png?quality=75&width=1200&auto=webp",
+    "publishedAt": "2023-07-18T04:27:13Z",
+    "content": "Sign up to Roisin OConnors free weekly newsletter Now Hear This for the inside track on all things music\r\nGet our Now Hear This email for free\r\nMiranda Lambert has stirred controversy among her fanba… [+2814 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Indianapolis Star"
+    },
+    "author": ", The Indianapolis Star",
+    "title": "Powerball numbers 7/17/23: Lottery results for $900M jackpot - IndyStar",
+    "description": "Here are the winning Powerball numbers and results for the $900 million lottery jackpot drawing on Monday, July 17, 2023.",
+    "url": "https://www.indystar.com/story/news/2023/07/17/powerball-numbers-july-17-2023-lottery-drawing-results-power-ball-lotto-jackpot-7-17-23/70421321007/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2023/02/05/USAT/c45149d1-e350-43fc-8292-ad5d8b516a17-AP_Lottery_Jackpot.jpg?auto=webp&crop=4087,2299,x0,y208&format=pjpg&width=1200",
+    "publishedAt": "2023-07-18T04:07:30Z",
+    "content": "The Powerball lottery jackpot's remains the game's third biggest prize of all-time after no one matched all six numbers Saturday night. Happy National Lottery Day!\r\nThe Powerball prize is currently t… [+4115 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters",
+    "title": "Morning Bid: China worries keep investors jittery - Reuters",
+    "description": "A look at the day ahead in European and global markets from Ankur Banerjee",
+    "url": "https://www.reuters.com/markets/europe/global-markets-view-europe-2023-07-18/",
+    "urlToImage": "https://www.reuters.com/resizer/8LxV09_B0wdzOqXm2GC4m_pchcc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XQBRQ6LZDBIQZPT32VPZU226R4.jpg",
+    "publishedAt": "2023-07-18T03:23:30Z",
+    "content": "A look at the day ahead in European and global markets from Ankur Banerjee\r\nMarkets are still reeling from China's raft of unimpressive data and with the economic calendar now light, worries over a s… [+2277 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cord Cutters News, LLC"
+    },
+    "author": "Luke Bouma",
+    "title": "Deal Alert! Google Pixel Buds Pro & A-Series Earbuds Are On Sale! - Cord Cutters News",
+    "description": "Do you want some really good wireless earbuds but don’t want to pay an arm and a leg for them? Did you miss out on the Pixel Prime Day sale? Good news right now, Google’s Pixel Buds Pro and Pixel Buds A-Series are on sale once again. You can get the Pixel Pro…",
+    "url": "https://cordcuttersnews.com/deal-alert-google-pixel-buds-pro-a-series-earbuds-are-on-sale/",
+    "urlToImage": "https://cordcuttersnews.com/wp-content/uploads/2023/05/Untitled-design-4.jpg",
+    "publishedAt": "2023-07-18T03:05:09Z",
+    "content": "Do you want some really good wireless earbuds but don’t want to pay an arm and a leg for them? Did you miss out on the Pixel Prime Day sale? Good news right now, Google’s Pixel Buds Pro and Pixel Bud… [+3108 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Variety"
+    },
+    "author": "BreAnna Bell",
+    "title": "SAG-AFTRA Members Picket in High Heat to Show Solidarity and Prove That Strike Is ‘Symptom of a Larger Problem’ - Variety",
+    "description": "A glimpse into the actor’s life in summer 2023: One day you’re nominated for your first Emmy, the next day your union goes on strike. Young Mazino is living just this reality after a wh…",
+    "url": "https://variety.com/2023/biz/news/sag-strike-actors-netflix-maria-bello-young-mazino-1235672712/",
+    "urlToImage": "https://variety.com/wp-content/uploads/2023/07/GF2_4770.jpg?w=1000&h=563&crop=1",
+    "publishedAt": "2023-07-18T02:37:00Z",
+    "content": "A glimpse into the actor’s life in summer 2023: One day you’re nominated for your first Emmy, the next day your union goes on strike.\r\nYoung Mazino is living just this reality after a whirlwind week … [+2905 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NBCSports.com"
+    },
+    "author": "Charean Williams",
+    "title": "Running backs react to Saquon Barkley, Josh Jacobs, Tony Pollard not getting long-term deals - NBC Sports",
+    "description": "Saquon Barkley, Josh Jacobs and Tony Pollard aren't happy campers, and neither are their cohorts around the league.",
+    "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/running-backs-react-to-saquon-barkley-josh-jacobs-tony-pollard-not-getting-long-term-deals",
+    "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/d271ccf/2147483647/strip/true/crop/2012x1132+2+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2F2022-10%2FPollard1_USA.jpg",
+    "publishedAt": "2023-07-18T01:29:19Z",
+    "content": "Saquon Barkley, Josh Jacobs and Tony Pollard arent happy campers, and neither are their cohorts around the league.\r\nEven Christian McCaffrey, who leads the position with a yearly average of $16.016 m… [+1703 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "KIM TONG-HYUNG, USA TODAY",
+    "title": "South Korea deaths from floods, downpours grow to 40, survivors sought - USA TODAY",
+    "description": "At least 40 people in South Korea have died and more than 10,000 people have had to evacuate their homes since July 9 due to heavy rain and flooding.",
+    "url": "https://www.usatoday.com/story/news/world/2023/07/17/south-korea-flood-death-toll-grows/70422803007/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2023/07/18/USAT/6365bd68-7ffa-4017-92b8-ce77a0d1c337-AP23198697719256.jpg?auto=webp&crop=4541,2555,x0,y135&format=pjpg&width=1200",
+    "publishedAt": "2023-07-18T01:21:16Z",
+    "content": "SEOUL, South Korea Heavy downpours lashed South Korea for a ninth day on Monday as rescue workers struggled to search for survivors in landslides, buckled homes and swamped vehicles in the most destr… [+3436 chars]"
+    },
+    {
+    "source": {
+    "id": "al-jazeera-english",
+    "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "Russia launches wave of air attacks on south and eastern Ukraine - Al Jazeera English",
+    "description": "Ukraine’s air force said Odesa, Mykolaiv, Donetsk, Kherson, Zaporizhia and Dnipropetrovsk regions under attack threat.",
+    "url": "https://www.aljazeera.com/news/2023/7/18/russia-launches-wave-of-air-attacks-on-south-and-eastern-ukraine",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/07/AP23195534469658-1689657881.jpg?resize=1920%2C1440",
+    "publishedAt": "2023-07-18T01:08:25Z",
+    "content": "Russia has launched air attacks on targets in southern and eastern Ukraine using drones and possibly ballistic missiles, Ukraines air force said.\r\nThe southern port of Odesa and the Mykolaiv, Donetsk… [+3132 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Jacqueline Howard",
+    "title": "Childhood immunization rates that fell during Covid are improving but still not at pre-pandemic levels, new data shows - CNN",
+    "description": "Millions of children missed routine vaccinations against diseases such as measles, diphtheria and tetanus during the Covid-19 pandemic, but data now suggests that this decline in routine childhood immunizations may be reversing.",
+    "url": "https://www.cnn.com/2023/07/18/health/childhood-immunization-rates/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230717125845-vaccination-event-india-file.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-07-18T00:01:00Z",
+    "content": "Millions of children around the world missed routine childhood vaccinations against diseases such as measles, diphtheria and tetanus during the Covid-19 pandemic, but new data suggests that this decl… [+5869 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5google.com"
+    },
+    "author": "Abner Li",
+    "title": "Gmail encouraging users to enable Enhanced Safe Browsing - 9to5Google",
+    "description": "Over the past few days, Google has been prominently promoting Enhanced Safe Browsing in the Gmail apps. Appearing just above...",
+    "url": "https://9to5google.com/2023/07/17/gmail-enhanced-safe-browsing/",
+    "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/03/gmail-logo-circle-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-07-18T00:00:00Z",
+    "content": "Over the past few days, Google has been prominently promoting Enhanced Safe Browsing in the Gmail apps.\r\nAppearing just above your inbox on Android and the web, getting “additional protection against… [+1961 chars]"
+    }
+    ]
+    }
+    
